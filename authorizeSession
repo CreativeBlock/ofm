@@ -1,0 +1,40 @@
+{"isLoggedIn": true, "message": "Logged in successfully.", "datingAppSettings": {}, "accessToken": "3f9aeec8602de6d5252c9b578c760f79", "isOverSpendingLimit": false, "banners": [], "userData": {"isFree": false}, "subscriptionMap": {
+        "ofm-webcam": {
+            "id": 1353,
+            "user": 7902,
+            "affiliateSource": 9,
+            "processor": null,
+            "brand": "cupidbotofm",
+            "product": "ofm-webcam",
+            "createdDate": 2098451019.5465332,
+            "endDate": 2098451019.546533,
+            "canceledDate": null,
+            "freeTrialEndDate": 2098451019.546533,
+            "pricePerUnit": null,
+            "price": 500.0,
+            "accountLimit": 999999,
+            "spendingLimit": null,
+            "spendingLimitDays": null,
+            "lastChargeDate": null,
+            "sentAccessEmail": false,
+            "stripeID": null,
+            "stripeCustomerID": null,
+            "stripeStatus": null,
+            "stripeItemID": null,
+            "squareID": null,
+            "squareCustomerID": null,
+            "squareStatus": null,
+            "squareOrderID": null,
+            "coinbaseID": null,
+            "coinbaseCurrency": null,
+            "coinbaseStatus": null,
+            "coinbaseUnresolvedReason": null,
+            "isAuthorized": true,
+            "message": "This is a free trial, let us know if you have any feedback.",
+            "status": {
+                "text": "Will never expire",
+                "color": "warning"
+            },
+            "title": "Webcam spoofer"
+        }
+    }}
