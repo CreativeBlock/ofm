@@ -1,17 +1,27 @@
-{"isLoggedIn": true, "message": "Logged in successfully.", "datingAppSettings": {}, "accessToken": "3f9aeec8602de6d5252c9b578c760f79", "isOverSpendingLimit": false, "banners": [], "userData": {"isFree": false}, "subscriptionMap": {
+{
+    "isLoggedIn": true,
+    "message": "Logged in successfully.",
+    "datingAppSettings": {},
+    "accessToken": "d1ae0b3bf94e52bf9a9a02cb59721af9",
+    "isOverSpendingLimit": false,
+    "banners": [],
+    "userData": {
+        "isFree": false
+    },
+    "subscriptionMap": {
         "ofm-webcam": {
-            "id": 1353,
-            "user": 7902,
-            "affiliateSource": 9,
+            "id": 1361,
+            "user": 7909,
+            "affiliateSource": 21,
             "processor": null,
             "brand": "cupidbotofm",
             "product": "ofm-webcam",
-            "createdDate": 2098451019.5465332,
-            "endDate": 2098451019.546533,
+            "createdDate": 1698201251.115299,
+            "endDate": 2098451019.546532,
             "canceledDate": null,
             "freeTrialEndDate": 2098451019.546533,
             "pricePerUnit": null,
-            "price": 500.0,
+            "price": 200.0,
             "accountLimit": 999999,
             "spendingLimit": null,
             "spendingLimitDays": null,
@@ -36,5 +46,44 @@
                 "color": "warning"
             },
             "title": "Webcam spoofer"
+        },
+        "ofm-da": {
+            "id": 1360,
+            "user": 7909,
+            "affiliateSource": 21,
+            "processor": null,
+            "brand": "cupidbotofm",
+            "product": "ofm-da",
+            "createdDate": 1698201251.115299,
+            "endDate": 2098451019.546532,
+            "canceledDate": null,
+            "freeTrialEndDate": 2098451019.546533,
+            "pricePerUnit": null,
+            "price": 200.0,
+            "accountLimit": 999999,
+            "spendingLimit": null,
+            "spendingLimitDays": null,
+            "lastChargeDate": null,
+            "sentAccessEmail": false,
+            "stripeID": null,
+            "stripeCustomerID": null,
+            "stripeStatus": null,
+            "stripeItemID": null,
+            "squareID": null,
+            "squareCustomerID": null,
+            "squareStatus": null,
+            "squareOrderID": null,
+            "coinbaseID": null,
+            "coinbaseCurrency": null,
+            "coinbaseStatus": null,
+            "coinbaseUnresolvedReason": null,
+            "isAuthorized": true,
+            "message": "This is a free trial, let us know if you have any feedback.",
+            "status": {
+                "text": "Will never expire",
+                "color": "warning"
+            },
+            "title": "AI DA Bot"
         }
-    }}
+    }
+}
