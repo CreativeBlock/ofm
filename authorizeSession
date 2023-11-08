@@ -1,7 +1,8 @@
 {
     "isLoggedIn": true,
     "message": "Logged in successfully.",
-    "datingAppSettings": {},
+    "appSettings": {
+    },
     "accessToken": "3429b75044bcd79be3a183afd7455d81",
     "isOverSpendingLimit": false,
     "banners": [],
@@ -9,62 +10,24 @@
         "isFree": false
     },
     "subscriptionMap": {
-        "ofm-webcam": {
-            "id": 1361,
-            "user": 7909,
-            "affiliateSource": 21,
-            "processor": null,
-            "brand": "cupidbotofm",
-            "product": "ofm-webcam",
-            "createdDate": 1698201251.115299,
-            "endDate": 2098451019.546532,
-            "canceledDate": null,
-            "freeTrialEndDate": 2098451019.546533,
-            "pricePerUnit": null,
-            "price": 200.0,
-            "accountLimit": 999999,
-            "spendingLimit": null,
-            "spendingLimitDays": null,
-            "lastChargeDate": null,
-            "sentAccessEmail": false,
-            "stripeID": null,
-            "stripeCustomerID": null,
-            "stripeStatus": null,
-            "stripeItemID": null,
-            "squareID": null,
-            "squareCustomerID": null,
-            "squareStatus": null,
-            "squareOrderID": null,
-            "coinbaseID": null,
-            "coinbaseCurrency": null,
-            "coinbaseStatus": null,
-            "coinbaseUnresolvedReason": null,
-            "isAuthorized": true,
-            "message": "This is a free trial, let us know if you have any feedback.",
-            "status": {
-                "text": "Will never expire",
-                "color": "warning"
-            },
-            "title": "Webcam spoofer"
-        },
         "ofm-da": {
-            "id": 1360,
-            "user": 7909,
-            "affiliateSource": 21,
+            "id": 1576,
+            "user": 8125,
+            "affiliateSource": null,
             "processor": null,
             "brand": "cupidbotofm",
             "product": "ofm-da",
             "createdDate": 1698201251.115299,
             "endDate": 2098451019.546532,
             "canceledDate": null,
-            "freeTrialEndDate": 2098451019.546533,
+            "freeTrialEndDate": 2699327807.113961,
             "pricePerUnit": null,
             "price": 200.0,
             "accountLimit": 999999,
             "spendingLimit": null,
             "spendingLimitDays": null,
             "lastChargeDate": null,
-            "sentAccessEmail": false,
+            "sentAccessEmail": true,
             "stripeID": null,
             "stripeCustomerID": null,
             "stripeStatus": null,
@@ -78,12 +41,12 @@
             "coinbaseStatus": null,
             "coinbaseUnresolvedReason": null,
             "isAuthorized": true,
-            "message": "This is a free trial, let us know if you have any feedback.",
+            "message": "Successfully cracked",
             "status": {
                 "text": "Will never expire",
                 "color": "warning"
             },
-            "title": "AI DA Bot"
+            "title": "Dating app AI bot",
+            "runningAccounts": []
         }
     }
-}
