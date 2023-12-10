@@ -1,14 +1,27 @@
 {
     "isLoggedIn": true,
     "message": "Logged in successfully.",
-    "appSettings": {},
+    "appSettings": {
+        "user_id": 7902,
+        "version": "0.11.1",
+        "app": "snapchat",
+        "accountID": "f50933ea-f358-4471-9d14-0dc51dd7e054",
+        "name": "April Sky \u2764\ufe0f (Private Account)",
+        "isFemale": true,
+        "imageURL": "https://sdk.bitmoji.com/render/panel/10226440-99784448665_7-s5-v1.webp",
+        "lastActiveDate": 1702243574.562783,
+        "username": "qevav",
+        "mutableUsername": "aprilskyxx",
+        "isRunning": false,
+        "customCityTimezone": null
+    },
     "accessToken": "3f9aeec8602de6d5252c9b578c760f79",
     "isOverSpendingLimit": false,
     "banners": [],
     "userData": {
         "isFree": false,
         "remainingSnapAdds": 999999999,
-        "telegram": "",
+        "telegram": "@",
         "totalSnapAdds": 999999,
         "usedSnapAdds": 0
     },
