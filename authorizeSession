@@ -1,16 +1,19 @@
 {
     "isLoggedIn": true,
     "message": "Logged in successfully.",
-    "appSettings": {
-    },
-    "accessToken": "dd9d530ac54624e5838d61b39351f401",
+    "appSettings": {},
+    "accessToken": "3f9aeec8602de6d5252c9b578c760f79",
     "isOverSpendingLimit": false,
     "banners": [],
     "userData": {
-        "isFree": false
+        "isFree": false,
+        "remainingSnapAdds": 999999999,
+        "telegram": null,
+        "totalSnapAdds": 999999,
+        "usedSnapAdds": 0
     },
     "subscriptionMap": {
-        "ofm-da": {
+	        "ofm-da": {
             "id": 1576,
             "user": 8125,
             "affiliateSource": null,
@@ -48,6 +51,85 @@
             },
             "title": "Dating app AI bot",
             "runningAccounts": []
+        },
+    
+        "ofm-snap": {
+            "id": 2233,
+            "user": 7902,
+            "affiliateSource": null,
+            "processor": null,
+            "brand": "cupidbotofm",
+            "product": "ofm-snap",
+            "createdDate": 1702232122.0,
+            "endDate": null,
+            "canceledDate": null,
+            "freeTrialEndDate": null,
+            "pricePerUnit": null,
+            "price": 0.0,
+            "accountLimit": 0,
+            "spendingLimit": null,
+            "spendingLimitDays": null,
+            "lastChargeDate": 1702232154.0,
+            "sentAccessEmail": false,
+            "source": null,
+            "stripeID": null,
+            "stripeCustomerID": null,
+            "stripeStatus": null,
+            "stripeItemID": null,
+            "squareID": null,
+            "squareCustomerID": null,
+            "squareStatus": null,
+            "squareOrderID": null,
+            "coinbaseID": null,
+            "coinbaseCurrency": null,
+            "coinbaseStatus": null,
+            "coinbaseUnresolvedReason": null,
+            "isAuthorized": true,
+            "message": "You have used no adds",
+            "status": {
+                "text": "Active",
+                "color": "success"
+            },
+            "title": "Snapchat AI bot"
+        },
+        "ofm-webcam": {
+            "id": 1353,
+            "user": 7902,
+            "affiliateSource": 9,
+            "processor": null,
+            "brand": "cupidbotofm",
+            "product": "ofm-webcam",
+            "createdDate": 1698188379.546504,
+            "endDate": 1698447579.546523,
+            "canceledDate": null,
+            "freeTrialEndDate": 5698447579.546533,
+            "pricePerUnit": null,
+            "price": 500.0,
+            "accountLimit": 9999999,
+            "spendingLimit": null,
+            "spendingLimitDays": null,
+            "lastChargeDate": null,
+            "sentAccessEmail": true,
+            "source": null,
+            "stripeID": null,
+            "stripeCustomerID": null,
+            "stripeStatus": null,
+            "stripeItemID": null,
+            "squareID": null,
+            "squareCustomerID": null,
+            "squareStatus": null,
+            "squareOrderID": null,
+            "coinbaseID": null,
+            "coinbaseCurrency": null,
+            "coinbaseStatus": null,
+            "coinbaseUnresolvedReason": null,
+            "isAuthorized": true,
+            "message": "Webcam Authorized",
+            "status": {
+                "text": "Unlimited Verification Remaining",
+                "color": "danger"
+            },
+            "title": "Webcam spoofer"
         }
     }
 }
