@@ -2,13 +2,13 @@
     "isLoggedIn": true,
     "message": "Logged in successfully.",
     "appSettings": {},
-    "accessToken": "3f9aeec8602de6d5252c9b578c760f79",
+    "accessToken": "03c7c0ace395d80182db07ae2c30f034",
     "isOverSpendingLimit": false,
     "banners": [],
     "userData": {
         "isFree": false,
         "remainingSnapAdds": 999999999,
-        "telegram": null,
+        "telegram": @,
         "totalSnapAdds": 999999,
         "usedSnapAdds": 0
     },
