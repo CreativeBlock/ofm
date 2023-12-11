@@ -7,11 +7,8 @@
         "app": "snapchat",
         "accountID": "f50933ea-f358-4471-9d14-0dc51dd7e054",
         "isFemale": true,
-        "imageURL": "https://sdk.bitmoji.com/render/panel/10226440-99784448665_7-s5-v1.webp",
         "lastActiveDate": 1702243574.562783,
-        "username": "qevav",
-        "isRunning": false,
-        "customCityTimezone": null
+        "isRunning": true,
     },
     "accessToken": "bbaa2c3bc94770cc9527a13b506d0e2f",
     "isOverSpendingLimit": false,
