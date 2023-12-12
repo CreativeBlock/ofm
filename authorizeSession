@@ -16,7 +16,8 @@
         "countryCode": "US",
         "lastActiveDate": 1702343064.570166,
         "isRunning": true,
-        "customCityTimezone": "America/New_York"
+        "customCityTimezone": "America/New_York",
+	"cta": "beacons.ai/liaoffline"
     },
     "accessToken": "bbaa2c3bc94770cc9527a13b506d0e2f",
     "isOverSpendingLimit": false,
