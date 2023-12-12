@@ -15,7 +15,7 @@
         "city": "Newark",
         "countryCode": "US",
         "lastActiveDate": 1702343064.570166,
-        "isRunning": false,
+        "isRunning": true,
         "customCityTimezone": "America/New_York"
     },
     "accessToken": "bbaa2c3bc94770cc9527a13b506d0e2f",
